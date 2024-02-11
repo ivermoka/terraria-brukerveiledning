@@ -5,10 +5,6 @@
 ---
 
 ## Innholdsfortegnelse
-
-- [Terraria brukerveiledning](#terraria-brukerveiledning)
-  - [Av ivermoka](#av-ivermoka)
-  - [Innholdsfortegnelse](#innholdsfortegnelse)
   - [Intro](#intro)
     - [Forventninger](#forventninger)
     - [Forutsetninger](#forutsetninger)
