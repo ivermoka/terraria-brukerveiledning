@@ -1,13 +1,13 @@
 # Terraria brukerveiledning
 
-### Av Iver Morland Karlsvik
+### Av ivermoka
 
 ---
 
 ## Innholdsfortegnelse
 
 - [Terraria brukerveiledning](#terraria-brukerveiledning)
-  - [Av Iver Morland Karlsvik](#av-iver-morland-karlsvik)
+  - [Av ivermoka](#av-ivermoka)
   - [Innholdsfortegnelse](#innholdsfortegnelse)
   - [Intro](#intro)
     - [Forventninger](#forventninger)
@@ -83,6 +83,11 @@ Her ifra, kan du **lage og plassere møbler** på samme måte som vi gjorde iste
 
 ## Utstyr
 
+Nå skal vi lage utstyr! Ofte, er det første utstyret man lager **laget av tre**. Vi kan lage **full rustning** og **tre verktøy**. På samme måte som vi lagde ting isted, skal vi nå lage utstyr:
+![Screenshot](images/Screenshot%202024-01-22%20at%2010.54.39.png)
+Lag gjerne full tre rustning og tre verktøy som en start. Gjerne **eksperimenter** ved å lage ting du synes ser kult ut. Når du har rustningen i inventaret ditt, kan du **høyre klikke for å utruste deg**.
+
 ## Utforske
 
 ![Screenshot](images/Screenshot%202024-01-22%20at%2010.40.24.png)
+En stor del av Terraria er å **utforske**. Det er mange **kule steder** man kan finne, og verdenen er **tilfeldig laget**, så hver gjennomspilling er unik. Det finnes mange **forskjellige biomer** som ørken, snøbiome, underverdenen og hav. Nå som du forhåpentligvis kan litt grunnleggende Terraria mekanikker, kan du bare spille i vei. Dersom du **lurer på noe**, anbefaler jeg å søke det opp på Terraria sin wiki: https://terraria.fandom.com/wiki/Terraria_Wiki. **Takk for at du leste brukerveiledningen min!**
