@@ -1,4 +1,4 @@
-# Terraria brukerveiledning
+# Oppstart til Terraria
 
 ### Av ivermoka
 
